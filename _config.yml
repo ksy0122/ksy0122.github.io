@@ -99,16 +99,18 @@ analytics:
 author:
   name             : "ksy0122"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "게임개발을 꿈꾸는 한 대학생"
+  bio              : "개발을 꿈꾸는 한 대학생"
   location         : "Seoul, Korea"
   email            : "rlath0155@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "wooo519@email.com"
+      url: "rlath0155@gmail.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/RayLee-Kor"
+      url: "https://github.com/ksy0122"
+      
+  # 지워도 됌
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +129,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: rlath0155@gmail.com
+      url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
