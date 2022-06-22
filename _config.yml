@@ -105,11 +105,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: 
+      url: "rlath0155@gmail.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ksy0122"
-      
   # 지워도 됌
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -119,7 +118,7 @@ author:
       # url: "https://facebook.com/"
     - label: "HomePage"
       icon: "fab fa-fw fa-link"
-      # url: "https://github.com/"
+      url: "https://ksy0122.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +128,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "rlath0155@gmail.com"
+      # url: "rlath0155@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
