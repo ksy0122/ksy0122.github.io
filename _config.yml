@@ -118,7 +118,7 @@ author:
       # url: "https://facebook.com/"
     - label: "HomePage"
       icon: "fab fa-fw fa-link"
-      url: "https://ksy0122.github.io/"
+      # url: "https://ksy0122.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
