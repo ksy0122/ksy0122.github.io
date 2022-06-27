@@ -1,7 +1,7 @@
 ---
 title: "C 프로그래밍"
 layout: archive
-permalink: categories/C_ex
+permalink: categories/C_Programers
 author_profile: true
 sidebar_main: true
 ---
