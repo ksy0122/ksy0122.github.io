@@ -5,5 +5,5 @@ categories:
   - C_Programmers
 ---
 
-## Programers 문제풀이 1일차
+## Programmers 문제풀이 1일차
 
